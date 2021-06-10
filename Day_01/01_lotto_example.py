@@ -1,6 +1,6 @@
 import random
 
-num = int(input("lotto 게임 수를 입력하세요 : "))
+num = int(input("lotto 게임의 수를 입력하세요 : "))
 
 print("lotto 자동 번호 입니다.")
 print("----------------------")
